@@ -1,0 +1,20 @@
+{
+  "name": "npm2",
+  "version": "1.0.0",
+  "description": "npm inited package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm2"
+  ],
+  "author": "manoj kumar r",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.0",
+    "underscore": "^1.8.3"
+  }
+}
